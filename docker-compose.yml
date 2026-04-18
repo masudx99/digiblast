@@ -1,0 +1,11 @@
+services:
+  core:
+    build: ./services/core
+    container_name: digiblast-core
+    restart: unless-stopped
+    env_file:
+      - ./services/core/.env
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./services/core/failures:/app/failures
