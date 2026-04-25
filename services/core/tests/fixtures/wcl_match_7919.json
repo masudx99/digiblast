@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "source_url": "https://cricclubs.com/wclinc/viewScorecard.do?matchId=7919&clubId=670",
+    "scraped_at": "2026-04-25",
+    "verified_by": "msd+drs (eyeballed against rendered page)",
+    "purpose": "parser snapshot test — header-mapped extraction must produce exactly this output"
+  },
+  "league_slug": "wclinc",
+  "club_id": 670,
+  "match_id": 7919,
+  "series": "2026 WCL T20 Competition - Premier Division",
+  "match_date": "2026-04-11",
+  "format": "T20",
+  "venue": "Lake Fairfax",
+  "umpire": "Mahesh Chandrasekaran (Cardy Lions CC)",
+  "result": "VA Wolves CC won by 5 wickets",
+  "innings": [
+    {
+      "team_name": "VA Falcons CC",
+      "team_id": 3617,
+      "total_runs": 170,
+      "wickets": 3,
+      "overs": 20.0,
+      "extras": null,
+      "batting": [
+        { "name": "Muhammad Faraz", "playerId": "502141", "captain": false, "howOut": "c Juber H b Masud H", "R": 44, "B": 37, "fours": 4, "sixes": 1, "SR": 118.92 },
+        { "name": "Umair Khan",     "playerId": "6346182","captain": false, "howOut": "b Abu saleh P",       "R": 18, "B": 10, "fours": 2, "sixes": 1, "SR": 180.00 },
+        { "name": "Bilal Rizwan",   "playerId": "495007", "captain": false, "howOut": "lbw b Mohammad Nasir U","R": 24, "B": 26, "fours": 0, "sixes": 0, "SR": 92.31 },
+        { "name": "Rizwan Khan",    "playerId": "2165203","captain": false, "howOut": "not out",             "R": 50, "B": 29, "fours": 3, "sixes": 3, "SR": 172.41 },
+        { "name": "Muhammad Usman Saeed","playerId":"3406997","captain": false,"howOut":"not out",          "R": 28, "B": 19, "fours": 1, "sixes": 2, "SR": 147.37 }
+      ]
+    },
+    {
+      "team_name": "VA Wolves CC",
+      "team_id": 3618,
+      "total_runs": 172,
+      "wickets": 5,
+      "overs": 18.5,
+      "target": 171,
+      "extras": "(b 4 lb 0 w 11 nb 0 ) 15",
+      "batting": [
+        { "name": "Waleed Karimullah",  "playerId": "6346305","captain": false, "howOut": "b Umair K",            "R": 37, "B": 19, "fours": 1, "sixes": 4, "SR": 194.74 },
+        { "name": "Masud Haque",        "playerId": "2233608","captain": false, "howOut": "c Bilal R b Taha W",   "R": 79, "B": 49, "fours": 3, "sixes": 5, "SR": 161.22 },
+        { "name": "Arshman Ellahi",     "playerId": "2018269","captain": false, "howOut": "b Shahir S",           "R": 26, "B": 27, "fours": 1, "sixes": 0, "SR": 96.30 },
+        { "name": "Prince Gill",        "playerId": "470611", "captain": false, "howOut": "c Taha W b safwan A",  "R": 3,  "B": 5,  "fours": 0, "sixes": 0, "SR": 60.00 },
+        { "name": "Umair Goraya",       "playerId": "4191387","captain": false, "howOut": "b safwan A",           "R": 0,  "B": 2,  "fours": 0, "sixes": 0, "SR": 0.00 },
+        { "name": "Mohammad Nasir Uddin","playerId":"2023215","captain": false, "howOut": "not out",              "R": 6,  "B": 5,  "fours": 0, "sixes": 0, "SR": 120.00 },
+        { "name": "Ammad Khan",         "playerId": "2171695","captain": false, "howOut": "not out",              "R": 6,  "B": 6,  "fours": 1, "sixes": 0, "SR": 100.00 }
+      ],
+      "did_not_bat": [
+        { "name": "Juber Hannan",     "playerId": "495782",  "captain": true },
+        { "name": "Faysal Khan",      "playerId": "844445",  "captain": false },
+        { "name": "Abu Saleh Ponir",  "playerId": "3518922", "captain": false },
+        { "name": "Md Munim",         "playerId": "5634627", "captain": false }
+      ],
+      "fall_of_wickets": [
+        { "wicket": 1, "score": 51,  "over": "4.3",  "out_player": "Waleed K",  "out_playerId": "6346305" },
+        { "wicket": 2, "score": 154, "over": "15.3", "out_player": "Masud H",   "out_playerId": "2233608" },
+        { "wicket": 3, "score": 157, "over": "16.2", "out_player": "Prince G",  "out_playerId": "470611" },
+        { "wicket": 4, "score": 157, "over": "16.4", "out_player": "Umair G",   "out_playerId": "4191387" },
+        { "wicket": 5, "score": 165, "over": "17.4", "out_player": "Arshman E", "out_playerId": "2018269" }
+      ]
+    }
+  ],
+  "bowling": {
+    "VA Falcons CC": [
+      { "name": "Md Munim",            "playerId": "5634627","captain": false, "O": 4.0, "M": 0, "Dot": 7,  "R": 34, "W": 0, "Econ": 8.50 },
+      { "name": "Abu Saleh Ponir",     "playerId": "3518922","captain": false, "O": 4.0, "M": 0, "Dot": 7,  "R": 30, "W": 1, "Econ": 7.50 },
+      { "name": "Umair Goraya",        "playerId": "4191387","captain": false, "O": 4.0, "M": 0, "Dot": 7,  "R": 46, "W": 0, "Econ": 11.50 },
+      { "name": "Masud Haque",         "playerId": "2233608","captain": false, "O": 4.0, "M": 0, "Dot": 12, "R": 15, "W": 1, "Econ": 3.75 },
+      { "name": "Prince Gill",         "playerId": "470611", "captain": false, "O": 2.0, "M": 0, "Dot": 2,  "R": 17, "W": 0, "Econ": 8.50 },
+      { "name": "Mohammad Nasir Uddin","playerId": "2023215","captain": false, "O": 2.0, "M": 0, "Dot": 1,  "R": 28, "W": 1, "Econ": 14.00 }
+    ],
+    "VA Wolves CC": [
+      { "name": "Safwan Abbasi",   "playerId": "2819614","captain": false, "O": 4.0, "M": 0, "Dot": 10, "R": 37, "W": 2, "Econ": 9.25 },
+      { "name": "Shahir Shinwari", "playerId": "3477984","captain": false, "O": 3.0, "M": 0, "Dot": 2,  "R": 26, "W": 1, "Econ": 8.67 },
+      { "name": "Umair Khan",      "playerId": "6346182","captain": false, "O": 4.0, "M": 0, "Dot": 6,  "R": 42, "W": 1, "Econ": 10.50 },
+      { "name": "Muhammad Shaff",  "playerId": "509492", "captain": false, "O": 2.0, "M": 0, "Dot": 4,  "R": 19, "W": 0, "Econ": 9.50 },
+      { "name": "Shoaib Awan",     "playerId": "566313", "captain": true,  "O": 2.0, "M": 0, "Dot": 1,  "R": 22, "W": 0, "Econ": 11.00 },
+      { "name": "Taha Waseem",     "playerId": "2638700","captain": false, "O": 3.5, "M": 0, "Dot": 10, "R": 22, "W": 1, "Econ": 5.74 }
+    ]
+  },
+  "match_star_drs_pick": {
+    "playerId": "2233608",
+    "name": "Masud Haque",
+    "team": "VA Wolves CC",
+    "reason": "Top score of the match (79 off 49) on the winning side, anchored a chase from #2 to within 18 of the target. Rizwan Khan's 50* @ 172 SR was higher SR but smaller and on the losing side."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "source_url": "https://cricclubs.com/wclinc/viewScorecard.do?matchId=7948&clubId=670",
+    "scraped_at": "2026-04-25",
+    "verified_by": "msd+drs (eyeballed against rendered page)",
+    "purpose": "parser snapshot test — second match, second team-pair, validates parser is not overfit to match 7919"
+  },
+  "league_slug": "wclinc",
+  "club_id": 670,
+  "match_id": 7948,
+  "series": "2026 WCL T20 Competition - Premier Division",
+  "match_date": "2026-04-19",
+  "format": "T20",
+  "venue": "Orchard Park",
+  "umpire": "Yasathilaka J. Rathnayke",
+  "result": "VA Wolves CC won by 72 Runs",
+  "innings_summary": [
+    { "team": "VA Wolves CC", "score": "113/10 in 19.3" },
+    { "team": "Washington CC", "score": "41/10 in 11.2" }
+  ],
+  "bowling": {
+    "Washington CC": [
+      { "name": "Aayush Tejash Patel", "captain": false, "O": 4.0, "M": 0, "Dot": 10, "R": 19, "W": 1, "Econ": 4.75 },
+      { "name": "Meetu Patel",         "captain": false, "O": 4.0, "M": 0, "Dot": 13, "R": 17, "W": 3, "Econ": 4.25 },
+      { "name": "Anish Bhamidipaty",   "captain": false, "O": 4.0, "M": 1, "Dot": 18, "R": 17, "W": 2, "Econ": 4.25 },
+      { "name": "Adithya Bharadwaj",   "captain": false, "O": 4.0, "M": 0, "Dot": 11, "R": 25, "W": 1, "Econ": 6.25 },
+      { "name": "Manoj Ashoka Banakar","captain": false, "O": 2.0, "M": 0, "Dot": 6,  "R": 21, "W": 2, "Econ": 10.50 },
+      { "name": "Viral Patel",         "captain": false, "O": 1.3, "M": 0, "Dot": 3,  "R": 9,  "W": 1, "Econ": 6.00 }
+    ],
+    "VA Wolves CC": [
+      { "name": "Umair Goraya", "playerId": "4191387","captain": false, "O": 2.0, "M": 0, "Dot": 9,  "R": 7,  "W": 1, "Econ": 3.50 },
+      { "name": "Abdul Jabbar",                        "captain": false, "O": 2.2, "M": 0, "Dot": 9,  "R": 6,  "W": 2, "Econ": 2.57 },
+      { "name": "Pranto Ahmed", "playerId": "938715", "captain": false, "O": 4.0, "M": 0, "Dot": 20, "R": 7,  "W": 6, "Econ": 1.75 },
+      { "name": "Towker Khan",                         "captain": false, "O": 2.0, "M": 0, "Dot": 8,  "R": 13, "W": 1, "Econ": 6.50 },
+      { "name": "Masud Haque",  "playerId": "2233608","captain": false, "O": 1.0, "M": 0, "Dot": 3,  "R": 6,  "W": 0, "Econ": 6.00 }
+    ]
+  },
+  "match_star_drs_pick": {
+    "playerId": "938715",
+    "name": "Pranto Ahmed",
+    "team": "VA Wolves CC",
+    "reason": "6/7 in 4 overs (econ 1.75, 20 dot balls out of 24). Match-defining bowling spell — Washington CC went from chasing 114 to all out for 41. No batting performance comes close."
+  }
+}
